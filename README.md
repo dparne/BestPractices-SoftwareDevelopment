@@ -9,3 +9,4 @@ Notes as to what to do for an Ideal Project Development
 # Planning ahead
 - Plan for people being out. If someone is out, account for that time in planning and estimation.
 - Find out if anyone you are depending on for KT or something else is out. So that you can plan for what to work on those days without getting blocked.
+- Every developer should maintain an On boarding document.
