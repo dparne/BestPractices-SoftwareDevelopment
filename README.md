@@ -10,3 +10,9 @@ Notes as to what to do for an Ideal Project Development
 - Plan for people being out. If someone is out, account for that time in planning and estimation.
 - Find out if anyone you are depending on for KT or something else is out. So that you can plan for what to work on those days without getting blocked.
 - Every developer should maintain an On boarding document.
+
+### Team Structure to plan for.
+- Devs ofcourse. (Ideally unit tests)
+- Automation for identifying errors which may have been missed during code review.
+- Continuous Intergration and Continous Delivery
+- Think about Performance testing. Scaling opportunities
