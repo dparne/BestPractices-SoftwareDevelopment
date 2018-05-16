@@ -16,3 +16,4 @@ Notes as to what to do for an Ideal Project Development
 - Automation for identifying errors which may have been missed during code review.
 - Continuous Intergration and Continous Delivery
 - Think about Performance testing. Scaling opportunities
+- Integrate measurement tools into your release process
