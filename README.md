@@ -17,3 +17,4 @@ Notes as to what to do for an Ideal Project Development
 - Continuous Intergration and Continous Delivery
 - Think about Performance testing. Scaling opportunities
 - Integrate measurement tools into your release process
+- KPI measurement
